@@ -1,0 +1,150 @@
+.head {
+    position: absolute;
+width: 1350px;
+height: 800px;
+left: 20%;
+top: 8%;
+
+background: #ffffff;
+}
+
+#container {
+    position:relative;
+}
+#img2 {
+    position: absolute;
+   
+    top: 50px;
+    left: 915px;
+    top: 20rem;
+} 
+#img1 {
+    position: absolute;
+    left: 719.9px;
+    top: -12.5px;
+    width: 630px;
+    height: 799.5px;
+    margin-top: 1%;
+    float: right;
+    border-bottom-left-radius: 160px 15%;
+}
+
+.button_back .btn{
+    margin-left: 8rem;
+    margin-top: 5rem;
+    width: 100px;
+    height: 30px;
+    border-radius: 31px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+    box-sizing: border-box;
+    border: 1px solid rgba(208, 208, 208, 0.6);
+    background: #F5F5F5;
+
+}
+
+.header_top_text h1{
+    position: absolute;
+    margin-left: 8rem;
+    margin-top: 7rem;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 52px;
+color: #23262F;
+}
+
+.header_text p{
+    position: absolute;
+    margin-left: 8rem;
+    margin-top: 11.5rem;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #23262F;
+}
+
+.Verificatiion_code input{
+    position: absolute;
+    margin-left: 8rem;
+    margin-top: 16.2rem;
+    width: 30%;
+    height: 36px;
+    font-size: 15px;
+    border: 2px solid #DEE0E2;
+    border-radius: 8px;
+    background: #F4F7FE;
+}
+.Verificatiion_code p{
+    position: absolute;
+    margin-left: 26.7rem;
+    margin-top: 19.3rem;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.new_password input{
+    position: absolute;
+    margin-left: 8rem;
+    margin-top: 21.5rem;
+    width: 30%;
+    height: 35px;
+    font-size: 15px;
+    border: 2px solid #DEE0E2;
+    border-radius: 8px;
+    background: #F4F7FE;
+}
+.confirm_password input{
+    position: absolute;
+    margin-left: 8rem;
+    margin-top: 25rem;
+    width: 30%;
+    height: 35px;
+    font-size: 15px;
+    border: 2px solid #DEE0E2;
+    border-radius: 8px;
+    background: #F4F7FE;
+}
+
+.signup_button{
+    position: absolute;
+margin-top: 29.6rem;
+margin-left: 8rem;
+}
+.signup-btn {
+    outline: none;
+    border: none;
+    display: inline-block;
+    margin: 0 auto;
+    width: 413px;
+    height: 36.5px;
+    text-align: center;
+    background-color: #3972F9;
+    color: #fff;
+    border-radius: 12px;
+    border: 2px solid #3972F9;
+   font-size: 15px;
+}
+
+.footer h5{
+    position: absolute;
+    margin-top: 33rem;
+    margin-left: 12rem;
+    font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 26px;
+color: #6F767E;
+
+}   
+.footer a{
+    color: #23262F;
+    margin-left: 0.5rem;
+}
